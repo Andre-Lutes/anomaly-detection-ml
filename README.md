@@ -1,10 +1,7 @@
 # Anomaly Detection with Machine Learning
 
 ## 📌 Overview
-This project focuses on detecting anomalous patterns in healthcare data using Machine Learning techniques.
-
-The goal is to identify critical cases automatically and support data-driven decision making.
-
+This project applies Machine Learning techniques to detect anomalous patterns in healthcare data, aiming to identify critical cases and support data-driven decisions.
 ---
 
 ## 🧠 Problem
